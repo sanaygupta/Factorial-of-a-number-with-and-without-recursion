@@ -78,6 +78,9 @@ Conclusion
 This assignment demonstrates the calculation of factorials using both iterative and recursive functions in C. It provides practical experience with functions, return statements, recursion, and problem-solving techniques.
 
 Technologies Used
+
 Language: C
+
 Platform: 64-bit Linux
+
 Editor: gedit or any C-compatible code editor
